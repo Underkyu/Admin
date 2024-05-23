@@ -49,7 +49,7 @@ INSERT INTO `pessoa` (`id`, `nome`, `endereco`, `bairro`, `cep`, `cidade`, `esta
 (4, '0', '0', '0', 0, '0', '0', '0', '54456456'),
 (5, '0', '0', '0', 0, '0', '0', '0', '54456456'),
 (6, '12165', '165156', '156165', 156151, '51561', '156', '651651', '54456456'),
-(7, 'Miguel', 'Rua Komi san / helluva boss = woke', 'Hazbin hotel = beta', 1111111, 'Né Segredo', 'RJ', '+55(21)97905-73', '54456456');
+
 
 --
 -- Índices para tabelas despejadas
